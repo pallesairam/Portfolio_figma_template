@@ -12,8 +12,6 @@ Task_Figma is a responsive React + Vite project converted from a Figma design. I
 - Built with Vite for fast dev server and optimized builds
 - Tailwind CSS (or custom CSS) for styling
 
-> **Note:** This README was generated after verifying your live demo link. If you want specific feature details (fonts used, animation libraries, exact component names), paste them here and I’ll update the README.
-
 ## Tech stack
 - React
 - Vite
